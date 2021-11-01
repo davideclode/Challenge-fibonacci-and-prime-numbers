@@ -20,14 +20,14 @@
 # Compilação: <br>
 #### Código em C <br>
 Caso a pasta não tiver o executável (.exe), basta pressionar F5/F6 ou na própria opção "RUN" do vscode ou escrever na linha de comando(do vscode) o seguinte: <br>
-(1º) gcc -o executavel nomeDoCodigo.c <br>
+###### (1º) gcc -o executavel nomeDoCodigo.c <br>
 Obs.: Será gerado um executável com o nome: "executavel.exe" ou com outro nome caso for pressionado F5/F6 ou a opção "RUN" do vscode <br>
-(2º) Digitar o seguinte:   ./"executavel.exe" <br>
+###### (2º) Digitar o seguinte:   ./"executavel.exe" <br>
 Caso a pasta tiver o executável, basta seguir somente o passo dois (2º) <br>
 
 #### Código em C++ <br>
 Caso a pasta não tiver o executável (.exe), basta pressionar F5/F6 ou na própria opção "RUN" do vscode ou escrever na linha de comando(do vscode) o seguinte: <br>
 Obs.: Será gerado um executável com o nome: executavel.exe ou com outro nome caso for pressionado F5/F6 ou a opção "RUN" do vscode <br>
-(1º) Digitar o seguinte:   ./"executavel.exe" <br>
+###### (1º) Digitar o seguinte:   ./"executavel.exe" <br>
 Caso a pasta tiver o executável, basta seguir somente o passo um (1º) <br>
 
